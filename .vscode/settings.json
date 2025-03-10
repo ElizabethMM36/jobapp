@@ -9,9 +9,9 @@
             "server": "localhost",
             "port": 33060,
             "driver": "MySQL",
-            "username": "root",
-            "name": "MySQL Local",
+            "name": "local",
             "database": "jobapp",
+            "username": "root",
             "password": "EliMat@16605",
             "connectionTimeout": 30
         }
